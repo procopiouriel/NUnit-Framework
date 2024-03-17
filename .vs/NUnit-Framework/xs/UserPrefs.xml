@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{DB955691-933F-4F28-A59A-0DD8F985844D}|Default">
+  <MonoDevelop.Ide.ItemProperties.NUnit-Tests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.NUnit-Framework FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

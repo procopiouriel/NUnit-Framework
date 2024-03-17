@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hbBXNw0V/puH8JSIY99ZuQMxJyMQ/6o+U8MLFOT4K3TwOvg4Y/1J0GsDqf4vKsEZTas8ebgGauqUydos47hwoA==",
+  "success": true,
+  "projectFilePath": "/Users/procopiouriel/Documents/Visual Studio 2022/NUnit-Framework/NUnit-Framework/NUnit-Framework.csproj",
+  "expectedPackageFiles": [
+    "/Users/procopiouriel/.nuget/packages/google.ortools/9.9.3963/google.ortools.9.9.3963.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.ortools.runtime.linux-arm64/9.9.3963/google.ortools.runtime.linux-arm64.9.9.3963.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.ortools.runtime.linux-x64/9.9.3963/google.ortools.runtime.linux-x64.9.9.3963.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.ortools.runtime.osx-arm64/9.9.3963/google.ortools.runtime.osx-arm64.9.9.3963.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.ortools.runtime.osx-x64/9.9.3963/google.ortools.runtime.osx-x64.9.9.3963.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.ortools.runtime.win-x64/9.9.3963/google.ortools.runtime.win-x64.9.9.3963.nupkg.sha512",
+    "/Users/procopiouriel/.nuget/packages/google.protobuf/3.25.3/google.protobuf.3.25.3.nupkg.sha512"
+  ],
+  "logs": []
+}
